@@ -1,0 +1,22 @@
+{
+  "name": "shadow-package",
+  "version": "1.0.0",
+  "description": "Awesom shadow adding package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsu5555/shadow-package.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "tetsu5555",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetsu5555/shadow-package/issues"
+  },
+  "homepage": "https://github.com/tetsu5555/shadow-package#readme"
+}

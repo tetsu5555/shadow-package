@@ -18,3 +18,5 @@ shadowPackage({
     padding: false
 })
 ```
+
+[url](https://www.npmjs.com/package/shadow-package)
